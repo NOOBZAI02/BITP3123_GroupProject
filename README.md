@@ -61,7 +61,9 @@ YSL HOTEL ROOM BOOKING
 
       - id, room_id, room_type, total_price, check_in_date, check_out_date, username
 
-  ii) user  
+  ii) user
+        - id, room_id, room_type, total_price, check_in_date, check_out_date, username
+
       - id, username, password, email, phone_number
      
 
