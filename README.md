@@ -40,6 +40,13 @@ YSL HOTEL ROOM BOOKING
 
 4.  List of URL end points middleware RESTful
 
+- http://localhost/dad_lim/cancel_booking.php
+- http://localhost/dad_lim/login.php
+- http://localhost/dad_lim/signup.php
+- http://localhost/dad_lim/fetch_booking.php?username=" + userName
+- http://localhost/dad_lim/insert_booking.php
+- http://localhost/dad_lim/check_bookings.php
+
 
 ----------------------------------------------------------------------
 
