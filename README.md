@@ -14,6 +14,7 @@ YSL HOTEL ROOM BOOKING
 
 2. Explanantion of each apps
 -  Admin
+-  
     i) Manage Bookings
    
    ii) Manage Rooms
@@ -22,6 +23,7 @@ YSL HOTEL ROOM BOOKING
    - Admin can edit the room
 
 -  User
+-  
     i) Sign-up
    
    ii) log-in
