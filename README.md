@@ -1,8 +1,6 @@
 # BITP3123_GroupProject
 
-     NAME                         MATRIC
 LIM WEI JIE                      B03220102
-
 Muhammad Siddeeq bin Abdul Wahid B032210003
 Aidil Akram Bin Fazil            B032210500
 Kaleb Kwek keng sheng            B032210
