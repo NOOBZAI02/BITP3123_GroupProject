@@ -51,4 +51,10 @@ YSL HOTEL ROOM BOOKING
 ----------------------------------------------------------------------
 
 5.  The database and tables involve in the projects
-   
+   i) booking
+
+      - id, room_id, room_type, total_price, check_in_date, check_out_date, username
+
+  ii) user
+
+      - id, username, password, email, phone_number
