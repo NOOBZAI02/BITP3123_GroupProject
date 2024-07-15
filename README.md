@@ -15,6 +15,7 @@ YSL HOTEL ROOM BOOKING
 2. Explanantion of each apps
 -  Admin
     i) Manage Bookings
+   
    ii) Manage Rooms
 
    - Admin can see the user book which room and how long they are staying.
@@ -22,8 +23,11 @@ YSL HOTEL ROOM BOOKING
 
 -  User
     i) Sign-up
+   
    ii) log-in
+   
   iii) view room and book room
+
    iv) view booking
 
    - user need to sign up and then log in to the YSL Hotel page
